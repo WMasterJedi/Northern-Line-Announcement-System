@@ -1,8 +1,8 @@
 Northern Line Announcement System
 
 Requirements:
-Python
-Python Time Package
+Python,
+Python Time Package,
 Python Simple Audio Package
 
 Install Instructions:
